@@ -5,6 +5,7 @@ echo "We are learning git"
 echo "Husband: I don't want to travel"
 echo "Wife: I want to travel"
 echo "its my first line in github"
-
+echo "hi its my first line"
+echo "hi"
 
 
